@@ -1,0 +1,25 @@
+{
+  "name": "ya3ya6xyz",
+  "version": "1.1.0",
+  "description": "a package to print ya3ya6xyz",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ya3ya6/ya3ya6xyz.git"
+  },
+  "keywords": [
+    "print",
+    "ya3ya6",
+    "test",
+    "log"
+  ],
+  "author": "ya3ya6",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ya3ya6/ya3ya6xyz/issues"
+  },
+  "homepage": "https://github.com/ya3ya6/ya3ya6xyz#readme"
+}

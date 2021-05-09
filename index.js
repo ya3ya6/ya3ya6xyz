@@ -1,1 +1,1 @@
-console.log('ya3ya6xyz')
+module.exports = () => console.log('ya3ya6xyz')
